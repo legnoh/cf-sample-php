@@ -1,0 +1,14 @@
+{
+    "name": "legnoh/cf-sample-php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryoma Kai",
+            "email": "legknmj@icloud.com"
+        }
+    ],
+    "require": {
+      "cloudfoundry-community/cf-helper-php": "*"
+    }
+}

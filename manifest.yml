@@ -6,3 +6,5 @@ applications:
   env:
     test: hogehoge
     key: hogeeeee
+  services:
+  - database
